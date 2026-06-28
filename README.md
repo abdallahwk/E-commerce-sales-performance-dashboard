@@ -1,7 +1,7 @@
-# 🛒 E-Commerce Sales Performance Dashboard — India Regions
+# 🛒 E-Commerce Sales Performance Dashboard — Indian Regions
 ### Period: October 2023 – September 2025
 
-![Dashboard Preview](E-commerce_sales_dashboard_Indian_regions.pdf)
+📥 [Download Full Dashboard PDF](E-commerce_sales_dashboard_Indian_regions.pdf)
 
 ---
 
@@ -115,21 +115,8 @@ Tuesday consistently delivers the lowest sales (₹71.2M). This is actionable �
 
 ---
 
-## 📁 Files
-
-| File | Description |
-|---|---|
-| `E-commerce_sales_dashboard_Indian_regions.pdf` | Exported dashboard PDF |
-| `README.md` | Project documentation (this file) |
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repository, raise issues, or suggest improvements to the analysis. Pull requests are welcome.
 
 ---
-
-## 📄 License
-
-This project is open for educational and portfolio use.
