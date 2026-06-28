@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Performance Dashboard — Indian Regions
 ### Period: October 2023 – September 2025
 
-📥 [Download Full Dashboard PDF](E-commerce_sales_dashboard_Indian_regions.pdf)
+📥 [Download Full Dashboard PDF] https://drive.google.com/file/d/1LySfQjcXeVrjAGZ7xc6DG5YtwTm_xVw0/view?usp=drive_link
 
 ---
 
